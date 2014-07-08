@@ -6,15 +6,6 @@ var cats = [
     "Irrelevant"
 ];
 
-// var catDescriptions = [ 
-//     "Appropriately answers the question (attempts to provide a relevant answer)",
-// 	"Potentially answers the question (attempts to provide a relevant answer, but is insufficient in some way)",
-// 	"Badly answers the question (does not attempt to provide a relevant answer)",
-// 	"a Dialogue starting a different conversation than the question",
-// 	"a Not English response to the question"
-// ];
-
-
 var catsText = {
     "Yes": "<strong>Yes</strong> (e.g., the response answers the question affirmatively)",
     "No": "<strong>No</strong> (e.g., the response answers the question negatively)",
