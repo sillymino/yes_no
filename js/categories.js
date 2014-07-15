@@ -8,11 +8,11 @@ var cats = [
 ];
 
 var catsText = {
-    "Yes": "<strong>Yes</strong> (e.g., the response answers the question affirmatively)",
-    "No": "<strong>No</strong> (e.g., the response answers the question negatively)",
-    "Not Sure": "<strong>Not Sure</strong> (e.g., you or the commenter are unsure about the response)",
-    "Irrelevant": "<strong>Irrelevant</strong> (e.g. the response does not pertain to the question)",
-    "NA": "<strong>N/A</strong> (e.g. the original poster is asking for or providing follow-up information)"
+    "Yes": "<strong>Yes</strong> (e.g., the response suggests the answer is yes)",
+    "No": "<strong>No</strong> (e.g., the response suggests the answer is no)",
+    "Not Sure": "<strong>Not Sure</strong> (e.g., answers the question, but it is unclear if the answer is yes or no)",
+    "Irrelevant": "<strong>Irrelevant</strong> (e.g., the response does not answer the question)",
+    "NA": "<strong>N/A</strong> (e.g. Not Applicable)"
 };
 
 var examples = {
